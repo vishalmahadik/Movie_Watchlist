@@ -1,0 +1,59 @@
+{
+  "movies": [
+    {
+      "id": 1,
+      "title": "Inception",
+      "description": "A thief who enters the dreams of others to steal secrets from their",
+      "releaseYear": "2010",
+      "genre": "Sci-Fi",
+      "watched": false,
+      "rating": 3,
+      "review": "goods",
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/en/2/2e/Inception_%282010%29_theatrical_poster.jpg"
+    },
+    {
+      "id": 2,
+      "title": "The Shawshank Redemption",
+      "description": "Two imprisoned men bond over a number of years, finding solace and eventual redemption through acts of common decency.Two imprisoned men bond over a number of years, finding solace and eventual redemption through acts of common decency.",
+      "releaseYear": "1993",
+      "genre": "Drama",
+      "watched": true,
+      "rating": 5,
+      "review": "A masterpiece of storytelling and character development.",
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/en/8/81/ShawshankRedemptionMoviePoster.jpg"
+    },
+    {
+      "id": 1719933376992,
+      "title": "The Avengers",
+      "description": "arvel's The Avengers[5] (titled Marvel Avengers Assemble in the United Kingdom and Ireland[1][6] and commonly referred to as simply The Avengers) is a 2012 American superhero film based on the Marvel Comics superhero team of the same name. Produced by Marvel Studios and distributed by Walt Disney Studios Motion Pictures,[a] it is the sixth film in the Marvel Cinematic Universe (MCU). Written and directed by Joss Whedon, the film features an ensemble cast including Robert Downey Jr., Chris Evans, Mark Ruffalo, Chris Hemsworth, Scarlett Johansson, and Jeremy Renner as the Avengers, alongside Tom Hiddleston, Stellan Skarsgård, and Samuel L. Jackson. In the film, Nick Fury and the spy agency S.H.I.E.L.D. recruit Tony Stark, Steve Rogers, Bruce Banner, Thor, Natasha Romanoff, and Clint Barton to form a team capable of stopping Thor's brother Loki from subjugating Earth.",
+      "releaseYear": "2012",
+      "genre": "sci-fi",
+      "watched": false,
+      "rating": 3,
+      "review": "all time best",
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/en/8/8a/The_Avengers_%282012_film%29_poster.jpg"
+    },
+    {
+      "id": 1719947242033,
+      "title": "Hulk",
+      "description": "Hulk is a 2003 American superhero film based on the Marvel Comics character of the same name, created by Stan Lee and Jack Kirby.\n‎The Incredible Hulk (film) · ‎Brian Banner · ‎Glenn Talbot",
+      "releaseYear": "2003",
+      "genre": "Action",
+      "watched": true,
+      "rating": 0,
+      "review": "good",
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/en/5/59/Hulk_movie.jpg"
+    },
+    {
+      "id": 1720175744493,
+      "title": "Aquaman film",
+      "description": "Aquaman is a 2018 American superhero film based on the DC character of the same name. Co-produced and distributed by Warner Bros. Pictures, it is the sixth film in the DC Extended Universe (DCEU). Directed by James Wan from a screenplay by David Leslie Johnson-McGoldrick and Will Beall, it stars Jason Momoa as Arthur Curry / Aquaman, who sets out to lead the underwater kingdom of Atlantis and stop his half-brother, King Orm (Patrick Wilson) from uniting the seven underwater kingdoms to destroy the surface world. Amber Heard, Willem Dafoe, Patrick Wilson, Dolph Lundgren, Yahya Abdul-Mateen II, and Nicole Kidman also star in supporting roles.",
+      "releaseYear": "2018",
+      "genre": "Action",
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/en/e/ed/Aquaman_%28film%29_poster.jpg",
+      "watched": true,
+      "rating": 5,
+      "review": ""
+    }
+  ]
+}
